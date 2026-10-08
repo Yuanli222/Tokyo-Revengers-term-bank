@@ -1,5 +1,4 @@
-# Tokyo-Revengers-term-bank
-看同人翻译用，适用于英文，借助d老师所完成
+ version,1.0
 日文原名,英文 / 罗马音,中文译名,备注
 花垣武道,Hanagaki Takemichi,花垣武道,主角，昵称「武小道」
 橘日向,Tachibana Hinata,橘日向,武道女友
